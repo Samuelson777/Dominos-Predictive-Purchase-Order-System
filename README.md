@@ -114,7 +114,9 @@ Dominos aims to optimize the process of ordering ingredients by predicting futur
 | Peperoncini verdi                        | 1412.869703     | grams  |
 | Thai Sweet Chilli Sauce                  | 1260.000000     | grams  |
 
-- **Visualizations**: **EDA results**: ![EDA results](https://github.com/user-attachments/assets/2a8ac9a1-66f0-496e-9509-37b4ece167f1), **ARIMA Predictions for one pizza Sold Actual Vs Predicted for model selection**: [Predictions](https://github.com/user-attachments/assets/7ac1350d-1e29-4a5c-a451-115fd9b414a0)
+- **Visualizations**:
+- **EDA results**: ![EDA results](https://github.com/user-attachments/assets/2a8ac9a1-66f0-496e-9509-37b4ece167f1)
+- **ARIMA Predictions for one pizza Sold Actual Vs Predicted for model selection**: [Predictions](https://github.com/user-attachments/assets/7ac1350d-1e29-4a5c-a451-115fd9b414a0)
 
 
 ## Installation
