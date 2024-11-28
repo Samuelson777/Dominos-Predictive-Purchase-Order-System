@@ -46,7 +46,7 @@ Dominos aims to optimize the process of ordering ingredients by predicting futur
 - **Accurate Sales Predictions**: The model ARIMA successfully predicted pizza sales for the upcoming week, with a Mean Absolute Percentage Error (MAPE) of **[1.8163972880345898]**.
 - **Comprehensive Purchase Order**: A detailed purchase order was generated, listing the required quantities of each ingredient based on the predicted sales.
 
-### Purchase Order
+### Purchase Order(This is for one week forecast prediction)
 | Ingredient                               | Quantity        | Unit   |
 |------------------------------------------|-----------------|--------|
 | Barbecued Chicken                        | 5404.165210     | grams  |
