@@ -118,6 +118,8 @@ Dominos aims to optimize the process of ordering ingredients by predicting futur
 - **EDA results**: ![EDA results](https://github.com/user-attachments/assets/2a8ac9a1-66f0-496e-9509-37b4ece167f1)
 - **ARIMA Predictions for one pizza Sold Actual Vs Predicted for model selection**: [Predictions](https://github.com/user-attachments/assets/7ac1350d-1e29-4a5c-a451-115fd9b414a0)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Dominos-Predictive-Purchase-Order-System/blob/main/LICENSE) file for details.
 
 ## Installation
 To run this project, ensure you have Python installed. You can install the required libraries using pip:
